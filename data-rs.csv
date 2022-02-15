@@ -1,0 +1,160 @@
+tahun_standar,nama_rumah_sakit,kelas,kabupaten/kota,tanggal_mulai_survei,tanggal_masa_berlaku,status,tanggal_update
+2012,RS Umum Daerah Cengkareng,B,Jakarta Barat,2019-10-21,2022-10-20,Tingkat Paripurna,2019-11-13
+2012,RS Penyakit Infeksi Prof. Dr. Sulian,A,Jakarta Utara,2016-11-22,2019-11-21,Tingkat Paripurna,2017-08-04
+2012,RS Umum Daerah Pasar Rebo,B,Jakarta Timur,2016-11-23,2019-11-22,Tingkat Paripurna,2017-09-02
+2012,RS Umum Setia Mitra,C,Jakarta Selatan,2016-11-29,2019-11-28,Tingkat Paripurna,2017-03-16
+2012,RS Khusus Mata Jakarta Eye Center,B,Jakarta Pusat,2017-01-18,2020-01-17,Tingkat Paripurna,2017-03-16
+2012,RS Umum Husada,B,Jakarta Pusat,2017-02-01,2020-01-31,Tingkat Paripurna,2017-02-28
+2012,RS Umum AL Cilandak,B,Jakarta Selatan,2017-02-08,2020-02-07,Tingkat Paripurna,2017-03-13
+2012,RS Umum Grha Kedoya,B,Jakarta Barat,2017-03-20,2020-03-19,Tingkat Paripurna,2017-12-10
+2012,RS Umum Ciputra Hospital Citragarden,B,Jakarta Barat,2017-03-21,2020-03-20,Tingkat Paripurna,2017-08-04
+2012,RS Ibu dan Anak Family,C,Jakarta Utara,2017-04-05,2020-04-04,Tingkat Paripurna,2017-01-05
+2012,RS Umum Omni Medical Center,B,Jakarta Timur,2017-04-25,2020-04-24,Tingkat Paripurna,2017-08-28
+2012,RS Umum Islam Jakarta Utara,C,Jakarta Utara,2017-04-26,2020-04-25,Tingkat Paripurna,2017-05-19
+2012,RS Umum Gading Pluit,B,Jakarta Utara,2017-05-03,2020-05-02,Tingkat Paripurna,2017-07-06
+2012,RS Umum Pusat Pertamina,B,Jakarta Selatan,2017-05-16,2020-05-15,Tingkat Paripurna,2017-09-06
+2012,RS Umum Hermina Daan Mogot,B,Jakarta Barat,2017-05-17,2020-05-16,Tingkat Paripurna,2017-09-06
+2012,RS Umum Daerah Koja,B,Jakarta Utara,2017-06-05,2020-06-04,Tingkat Paripurna,2017-08-28
+2012,RS Umum PAD Gatot Soebroto,A,Jakarta Pusat,2017-07-18,2020-07-17,Tingkat Paripurna,2017-08-15
+2012,RS Umum Siloam Hospitals Kebon Jeruk,B,Jakarta Barat,2017-07-18,2020-07-17,Tingkat Paripurna,2017-08-15
+2012,RS Umum Pluit,B,Jakarta Utara,2017-08-01,2020-07-31,Tingkat Paripurna,2017-08-28
+2012,RS Umum Hermina,B,Jakarta Timur,2017-09-06,2020-09-05,Tingkat Paripurna,2017-03-10
+2012,RS Gigi dan Mulut TNI AL R.E Martadi,C,Jakarta Pusat,2017-10-17,2020-10-16,Tingkat Paripurna,2017-03-11
+2012,RS Umum Bunda Jakarta,C,Jakarta Pusat,2017-10-25,2020-10-24,Tingkat Paripurna,2018-07-03
+2012,RS Umum Adhyaksa,C,Jakarta Timur,2017-11-07,2020-11-06,Tingkat Paripurna,2017-11-29
+2012,RS Umum Antam Medika,B,Jakarta Timur,2017-11-14,2020-11-13,Tingkat Paripurna,2018-03-01
+2012,RS PGI Cikini,B,Jakarta Pusat,2017-11-21,2020-11-20,Tingkat Paripurna,2017-11-12
+2012,RS Jantung Bina Waluya,C,Jakarta Timur,2017-11-28,2020-11-27,Tingkat Paripurna,2018-04-13
+2012,RS Umum Evasari,B,Jakarta Pusat,2017-11-28,2020-11-27,Tingkat Paripurna,2017-11-12
+2012,RS Umum Mitra Keluarga Kalideres,C,Jakarta Barat,2017-12-06,2020-12-05,Tingkat Paripurna,2018-07-03
+2012,RS Ibu dan Anak Bunda,B,Jakarta Pusat,2017-12-07,2020-12-06,Tingkat Paripurna,2018-03-15
+2012,RS Gigi Dan Mulut YARSI,B,Jakarta Pusat,2017-12-11,2020-12-10,Tingkat Paripurna,2018-09-18
+2012,RS Jantung Jakarta,C,Jakarta Timur,2017-12-11,2020-12-10,Tingkat Paripurna,2018-05-21
+2012,RS Umum AL Dr Mintoharjo,B,Jakarta Pusat,2017-12-12,2020-12-11,Tingkat Paripurna,2018-06-29
+2012,RS Umum Haji Jakarta,B,Jakarta Timur,2017-12-12,2020-12-11,Tingkat Paripurna,2018-03-15
+2012,RS Umum MMC,B,Jakarta Selatan,2017-12-13,2020-12-12,Tingkat Paripurna,2018-04-20
+2018,RS Anak dan Bunda Harapan Kita,A,Jakarta Barat,2018-02-26,2021-02-25,Tingkat Paripurna,2018-02-04
+2018,RS Kanker Dharmais,A,Jakarta Barat,2018-05-21,2021-05-20,Tingkat Paripurna,2018-06-20
+2018,RS Umum FK UKI,B,Jakarta Timur,2018-06-04,2021-06-03,Tingkat Paripurna,2018-07-15
+2018,RS Gigi dan Mulut FKG Universitas Tr,A,Jakarta Barat,2018-07-31,2021-07-30,Tingkat Paripurna,2018-01-09
+2018,RS Tk II M.Ridwan Meuraksa,B,Jakarta Timur,2018-09-03,2021-09-02,Tingkat Paripurna,2018-12-27
+2018,RS Umum Mayapada,B,Jakarta Selatan,2018-09-04,2021-09-03,Tingkat Paripurna,2018-10-27
+2018,RS Khusus Kanker MRCCC Siloam Semang,A,Jakarta Selatan,2018-09-17,2021-09-16,Tingkat Paripurna,2018-10-27
+2018,RS Umum Premier Jatinegara,B,Jakarta Timur,2018-09-25,2021-09-24,Tingkat Paripurna,2019-11-04
+2018,RS Jantung dan Pembuluh Darah Harapa,A,Jakarta Barat,2018-10-08,2021-10-07,Tingkat Paripurna,2019-07-03
+2018,RS Umum Puri Indah,B,Jakarta Barat,2018-10-30,2021-10-29,Tingkat Paripurna,2018-11-26
+2018,RS Umum Harapan Bunda,B,Jakarta Timur,2018-11-06,2021-11-05,Tingkat Paripurna,2019-02-05
+2018,RS Umum Hermina Kemayoran,B,Jakarta Pusat,2018-11-07,2021-11-06,Tingkat Paripurna,2018-03-12
+2018,RS Umum Jakarta,B,Jakarta Selatan,2018-11-12,2021-11-11,Tingkat Paripurna,2018-08-12
+2018,RS Ibu dan Anak YPK Mandiri,B,Jakarta Pusat,2018-11-26,2021-11-25,Tingkat Paripurna,2018-12-31
+2018,RSUP Persahabatan,A,Jakarta Timur,2018-11-26,2021-11-25,Tingkat Paripurna,2019-02-05
+2018,RS Gigi dan Mulut Univ.Prof.Moestopo,B,Jakarta Selatan,2018-11-27,2021-11-26,Tingkat Paripurna,2018-12-31
+2018,RS Umum Sint Carolus,B,Jakarta Pusat,2018-12-03,2021-12-02,Tingkat Paripurna,2018-12-15
+2018,RS Umum Siloam TB Simatupang,B,Jakarta Selatan,2018-12-03,2021-12-02,Tingkat Paripurna,2018-12-31
+2018,RS Ibu dan Anak Restu Kasih,C,Jakarta Timur,2018-12-05,2021-12-04,Tingkat Paripurna,2019-01-05
+2018,RSK Pusat Otak Nasional,A,Jakarta Timur,2018-12-17,2021-12-16,Tingkat Paripurna,2019-04-01
+2018,RS Umum Pelabuhan Tj. Priok,C,Jakarta Utara,2018-12-18,2021-12-17,Tingkat Paripurna,2018-12-31
+2018,RS Pusat AU dr. Esnawan Antariksa,B,Jakarta Timur,2018-12-18,2021-12-17,Tingkat Paripurna,2018-12-31
+2018,RS Umum Columbia Asia-Pulomas,C,Jakarta Timur,2019-01-28,2022-01-27,Tingkat Paripurna,2019-08-03
+2018,RS Umum Sahid Sahirman,B,Jakarta Pusat,2019-01-29,2022-01-28,Tingkat Paripurna,2019-03-23
+2018,RS Islam Jakarta Pondok Kopi,B,Jakarta Timur,2019-02-12,2022-02-11,Tingkat Paripurna,2019-08-03
+2018,RS Umum Akademik Atma Jaya,B,Jakarta Utara,2019-02-25,2022-02-24,Tingkat Paripurna,2019-05-28
+2018,RS Umum Daerah Kecamatan Tebet,D,Jakarta Selatan,2019-02-26,2022-02-25,Tingkat Paripurna,2019-07-10
+2018,RS Umum Medistra,B,Jakarta Selatan,2019-03-12,2022-03-11,Tingkat Paripurna,2019-04-16
+2018,RS Ibu dan Anak Bunda Aliyah,B,Jakarta Timur,2019-03-13,2022-03-12,Tingkat Paripurna,2019-07-29
+2018,RS Umum Daerah Kecamatan Kembangan,D,Jakarta Barat,2019-03-13,2022-03-12,Tingkat Paripurna,2019-07-29
+2018,RS Umum Pesanggrahan,D,Jakarta Selatan,2019-04-09,2022-04-08,Tingkat Paripurna,2019-09-17
+2018,RS Umum Bhayangkara Tk. I R.Said Suk,A,Jakarta Timur,2019-04-22,2022-04-21,Tingkat Paripurna,2019-02-05
+2018,RS Umum Daerah Jati Padang,D,Jakarta Selatan,2019-04-22,2022-04-21,Tingkat Paripurna,2019-01-05
+2018,RS Umum Siloam Asri,B,Jakarta Selatan,2019-04-23,2022-04-22,Tingkat Paripurna,2019-02-05
+2018,RS Umum Daerah Jagakarsa,D,Jakarta Selatan,2019-05-02,2022-05-01,Tingkat Paripurna,2019-07-10
+2018,RS Ibu dan Anak Andhika,C,Jakarta Selatan,2019-05-02,2022-05-01,Tingkat Paripurna,2019-05-13
+2018,RS Umum Daerah Cilincing,D,Jakarta Utara,2019-05-02,2022-05-01,Tingkat Paripurna,2019-03-09
+2018,RS Umum Daerah Tugu Koja,D,Jakarta Utara,2019-05-02,2022-05-01,Tingkat Paripurna,2019-08-05
+2018,Rumah Sakit Gigi Dan Mulut Angkatan,B,Jakarta Timur,2019-05-02,2022-05-01,Tingkat Paripurna,2019-05-13
+2018,RS Umum Kramat 128,B,Jakarta Pusat,2019-05-07,2022-05-06,Tingkat Paripurna,2019-05-21
+2018,RS Umum Dr. Suyoto Pusrehab Kemhan,B,Jakarta Selatan,2019-05-14,2022-05-13,Tingkat Paripurna,2019-07-18
+2018,RS Umum Islam Jakarta Cempaka Putih,B,Jakarta Pusat,2019-06-18,2022-06-17,Tingkat Paripurna,2019-06-28
+2018,RS Umum Royal Progress,B,Jakarta Utara,2019-06-18,2022-06-17,Tingkat Paripurna,2019-06-27
+2018,RS Umum Daerah Cempaka Putih,D,Jakarta Pusat,2019-06-25,2022-06-24,Tingkat Paripurna,2019-06-30
+2018,RS Umum Cinta Kasih Tzu Chi,C,Jakarta Barat,2019-06-25,2022-06-24,Tingkat Paripurna,2019-06-30
+2018,RS Umum Mitra Keluarga Kelapa Gading,B,Jakarta Utara,2019-07-24,2022-07-23,Tingkat Paripurna,2019-03-09
+2018,RS Umum Bhayangkara Sespimma Polri,D,Jakarta Selatan,2019-07-31,2022-07-30,Tingkat Paripurna,2019-12-08
+2018,RS Tk IV Cijantung,C,Jakarta Timur,2019-08-13,2022-08-12,Tingkat Paripurna,2019-08-30
+2018,RS Umum Pelni Petamburan,B,Jakarta Barat,2019-08-20,2022-08-19,Tingkat Paripurna,2019-10-09
+2018,RS Umum Prikasih,C,Jakarta Selatan,2019-08-20,2022-08-19,Tingkat Paripurna,2019-08-09
+2018,RS Umum Pondok Indah,B,Jakarta Selatan,2019-09-10,2022-09-09,Tingkat Paripurna,2019-07-10
+2018,RS Umum Mitra Kemayoran,B,Jakarta Pusat,2019-09-10,2022-09-09,Tingkat Paripurna,2019-04-10
+2018,RS Umum Daerah Budhi Asih,B,Jakarta Timur,2019-09-23,2022-09-22,Tingkat Paripurna,2019-07-10
+2018,RS Umum Daerah Tarakan,A,Jakarta Pusat,2019-09-24,2022-09-23,Tingkat Paripurna,2019-07-10
+2012,RS Umum Zahirah,C,Jakarta Selatan,2016-12-21,2019-12-20,Tingkat Utama,2017-05-19
+2012,RS Ibu dan Anak Budhi Jaya,C,Jakarta Selatan,2017-03-16,2020-03-15,Tingkat Utama,2017-08-04
+2012,RS Umum Pantai Indah Kapuk,B,Jakarta Utara,2017-07-25,2020-07-24,Tingkat Utama,2017-03-11
+2012,RS Umum Tebet,B,Jakarta Selatan,2017-11-23,2020-11-22,Tingkat Utama,2017-11-12
+2012,RS Umum Daerah Pasar Minggu,B,Jakarta Selatan,2017-12-06,2020-12-05,Tingkat Utama,2018-09-18
+2012,RS Umum Sumber Waras,B,Jakarta Barat,2017-12-11,2020-12-10,Tingkat Utama,2018-07-01
+2012,RS Ibu dan Anak Sammrie Basra,B,Jakarta Timur,2017-12-19,2020-12-18,Tingkat Utama,2018-03-22
+2018,RS Umum Daerah Tanah Abang,D,Jakarta Pusat,2018-11-12,2021-11-11,Tingkat Utama,2018-08-12
+2018,RS Ibu dan Anak Grand Family,C,Jakarta Utara,2018-12-04,2021-12-03,Tingkat Utama,2018-12-31
+2018,RS Umum Daerah Ciracas,D,Jakarta Timur,2019-02-18,2022-02-17,Tingkat Utama,2019-08-03
+2018,RS Umum Abdi Waluyo,B,Jakarta Pusat,2019-04-23,2022-04-22,Tingkat Utama,2019-02-05
+2018,RS Umum Daerah Kramat Jati,D,Jakarta Timur,2019-05-02,2022-05-01,Tingkat Utama,2019-07-10
+2018,RS Umum Daerah Mampang Prapatan,D,Jakarta Selatan,2019-05-14,2022-05-13,Tingkat Utama,2019-05-28
+2018,RS Umum Budi Kemuliaan,C,Jakarta Pusat,2019-05-20,2022-05-19,Tingkat Utama,2019-06-27
+2018,RSUD CIPAYUNG,D,Jakarta Timur,2019-06-11,2022-06-10,Tingkat Utama,2019-06-27
+2018,RS Umum Daerah Sawah Besar,D,Jakarta Pusat,2019-06-24,2022-06-23,Tingkat Utama,2019-06-30
+2018,RS Umum Siaga Raya,C,Jakarta Selatan,2019-07-02,2022-07-01,Tingkat Utama,2019-09-08
+2018,RS Umum Aulia,C,Jakarta Selatan,2019-08-13,2022-08-12,Tingkat Utama,2019-08-30
+2018,RS Umum Harum,C,Jakarta Timur,2019-09-10,2022-09-09,Tingkat Utama,2019-04-10
+2018,RS Umum Pertamina Jaya,C,Jakarta Pusat,2019-09-26,2022-09-25,Tingkat Utama,2019-10-31
+2018,RS Ketergantungan Obat,B,Jakarta Timur,2019-10-15,2022-10-14,Tingkat Utama,2019-10-28
+2012,RS Khusus Bedah Rawamangun,C,Jakarta Timur,2017-05-16,2020-05-15,Tingkat Madya,2017-01-06
+2012,RS Umum Medika Permata Hijau,B,Jakarta Barat,2017-10-23,2020-10-22,Tingkat Madya,2017-06-12
+2012,RS Umum Patria IKKT,C,Jakarta Barat,2017-12-19,2020-12-18,Tingkat Madya,2018-01-02
+2012,RS Umum Mediros,C,Jakarta Timur,2017-12-28,2020-12-27,Tingkat Madya,2018-08-25
+2018,RS Umum Daerah Taman Sari,D,Jakarta Barat,2018-12-04,2021-12-03,Tingkat Madya,2019-04-01
+2018,RS Umum Hermina Podomoro,C,Jakarta Utara,2018-12-06,2021-12-05,Tingkat Madya,2019-04-01
+2018,RS Pusdikkes,C,Jakarta Timur,2019-01-22,2022-01-21,Tingkat Madya,2019-06-19
+2018,RS Umum Daerah Kemayoran,D,Jakarta Pusat,2019-03-19,2022-03-18,Tingkat Madya,2019-09-04
+2018,RS Umum Puri Medika,C,Jakarta Utara,2019-03-27,2022-03-26,Tingkat Madya,2019-04-30
+2018,RS Umum Pekerja,C,Jakarta Utara,2019-04-22,2022-04-21,Tingkat Madya,2019-02-05
+2018,RS Umum Daerah Kecamatan Kalideres,D,Jakarta Barat,2019-05-02,2022-05-01,Tingkat Madya,2019-07-05
+2018,RS Umum Mulyasari,C,Jakarta Utara,2019-05-06,2022-05-05,Tingkat Madya,2019-05-21
+2018,RS Umum Kartika Pulo Mas,C,Jakarta Timur,2019-05-15,2022-05-14,Tingkat Madya,2019-10-06
+2018,RS Umum Yadika,C,Jakarta Timur,2019-05-21,2022-05-20,Tingkat Madya,2019-08-14
+2018,RS Umum Daerah  Pademangan,D,Jakarta Utara,2019-05-22,2022-05-21,Tingkat Madya,2019-05-31
+2018,RS Umum Duta Indah,B,Jakarta Utara,2019-05-27,2022-05-26,Tingkat Madya,2019-10-06
+2018,RS. Mata JEC Primasana,C,Jakarta Utara,2019-05-27,2022-05-26,Tingkat Madya,2019-06-19
+2018,RS Umum Daerah Johar Baru,D,Jakarta Pusat,2019-05-27,2022-05-26,Tingkat Madya,2019-10-06
+2018,RS Umum Menteng Mitra Afia,C,Jakarta Pusat,2019-06-10,2022-06-09,Tingkat Madya,2019-06-27
+2018,RS Umum Daerah Kebayoran Lama,D,Jakarta Selatan,2019-06-11,2022-06-10,Tingkat Madya,2019-06-27
+2018,RS Umum dr. Abdul Radjak,B,Jakarta Pusat,2019-06-18,2022-06-17,Tingkat Madya,2019-06-27
+2018,RS Jiwa Islam Klender,C,Jakarta Timur,2019-06-19,2022-06-18,Tingkat Madya,2019-06-30
+2018,RS Umum Yadika,C,Jakarta Selatan,2019-06-19,2022-06-18,Tingkat Madya,2019-06-30
+2018,RS Umum Agung,C,Jakarta Selatan,2019-08-19,2022-08-18,Tingkat Madya,2019-08-30
+2018,RS Umum Bina Sehat Mandiri,C,Jakarta Barat,2019-04-24,2022-04-23,Tingkat Dasar,2019-05-22
+2018,RS Umum Ali Sibroh Malisi,C,Jakarta Selatan,2019-05-21,2022-05-20,Tingkat Dasar,2019-05-28
+2018,RS Umum Petukangan,C,Jakarta Pusat,2019-05-27,2022-05-26,Tingkat Dasar,2019-06-19
+2018,RSU Gandaria,C,Jakarta Selatan,2019-06-25,2022-06-24,Tingkat Dasar,2019-06-30
+2018,RS Jiwa Duren Sawit,A,Jakarta Timur,2019-09-02,2022-09-01,Tingkat Dasar,2019-09-27
+2012,RS Umum Port Medical Center,C,Jakarta Utara,2016-12-20,2019-12-19,Lulus Perdana,2016-12-25
+2012,RS Umum Bhakti Mulia,C,Jakarta Barat,2017-03-09,2020-03-08,Lulus Perdana,2017-03-16
+2012,RS Umum Harapan Jayakarta,C,Jakarta Timur,2017-04-05,2020-04-04,Lulus Perdana,2017-10-04
+2012,RS Umum Firdaus,C,Jakarta Utara,2017-04-20,2020-04-19,Lulus Perdana,2017-10-05
+2012,RS Ibu dan Anak St. Yusuf,C,Jakarta Utara,2017-06-06,2020-06-05,Lulus Perdana,2017-06-20
+2012,RS Umum Daerah Matraman,D,Jakarta Timur,2017-10-03,2020-10-02,Lulus Perdana,2018-01-30
+2012,RS Umum Daerah Kepulauan Seribu,D,Kepulauan Seribu,2017-11-27,2020-11-26,Lulus Perdana,2017-06-12
+2012,RS Umum Anggrek Mas,D,Jakarta Barat,2017-12-21,2020-12-20,Lulus Perdana,2018-03-22
+2012,RS Umum Olahraga Nasional,C,Jakarta Timur,2018-01-05,2021-01-04,Lulus Perdana,2018-01-30
+2018,RS Khusus Mata SMEC Jakarta,C,Jakarta Timur,2018-10-11,2021-10-10,Lulus Perdana,2018-11-14
+2018,RS Khusus Bedah Halimun,C,Jakarta Selatan,2018-10-22,2021-10-21,Lulus Perdana,2018-05-11
+2018,RS Ibu dan Anak Resti Mulya,C,Jakarta Timur,2018-12-03,2021-12-02,Lulus Perdana,2019-03-01
+2018,RS Umum Daerah Kebayoran Baru,D,Jakarta Selatan,2018-12-05,2021-12-04,Lulus Perdana,2018-12-12
+2018,RS Umum Daerah  Tanjung Priok,D,Jakarta Utara,2018-12-18,2021-12-17,Lulus Perdana,2019-03-01
+2018,RS Umum Sukmul,C,Jakarta Utara,2018-12-19,2021-12-18,Lulus Perdana,2019-03-01
+2018,RS Bersalin Kartini,C,Jakarta Selatan,2018-12-19,2021-12-18,Lulus Perdana,2019-01-17
+2018,RS Ibu dan Anak Sayyidah,C,Jakarta Timur,2018-12-27,2021-12-26,Lulus Perdana,2019-04-01
+2018,RS Khusus Bedah Bina Estetika,B,Jakarta Pusat,2018-12-27,2021-12-26,Lulus Perdana,2019-02-01
+2018,RS Ibu dan Anak Ibnu Sina,C,Jakarta Barat,2019-01-02,2022-01-01,Lulus Perdana,2019-01-13
+2018,RS Jantung dan Pembuluh Darah Harapan Kita,A,Jakarta Barat,2018-10-08,2021-10-07,International,2019-07-03
+2018,RSUP Persahabatan,A,Jakarta Timur,2018-11-26,2021-11-25,International,2019-02-05
